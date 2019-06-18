@@ -1,0 +1,15 @@
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\obj\Debug\01_WPF_Controls_1.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\obj\Debug\01_WPF_Controls_1_MarkupCompile.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\obj\Debug\01_WPF_Controls_1_MarkupCompile.lref
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\bin\Debug\01_WPF_Controls_1.exe.config
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\bin\Debug\01_WPF_Controls_1.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\bin\Debug\01_WPF_Controls_1.pdb
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\obj\Debug\MainWindow.baml
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\obj\Debug\01_WPF_Controls_1.g.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\obj\Debug\_01_WPF_Controls_1.Properties.Resources.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\obj\Debug\01_WPF_Controls_1.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\obj\Debug\01_WPF_Controls_1.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\obj\Debug\01_WPF_Controls_1.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\01\1\01_WPF_Controls_1\01_WPF_Controls_1\01_WPF_Controls_1\obj\Debug\01_WPF_Controls_1.pdb
